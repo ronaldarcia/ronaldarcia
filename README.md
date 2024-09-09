@@ -1,4 +1,6 @@
-Hi! I'm Ronald, an X generation junior fullstack developer focused on frontend, looking to collaborate<br>on a entusiastic team to grow ahead and learn everyday to achieve our goals.<br><br>I'm learning Angular and Azure AZ-400<br>
+# Hi! I'm Ronald!
+
+I'm a Junior Fullstack Developer focused on frontend, looking to collaborate<br>on a entusiastic team to grow ahead and learn everyday to achieve our goals.<br><br>I'm learning Angular and Azure AZ-400<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldarcia) 
