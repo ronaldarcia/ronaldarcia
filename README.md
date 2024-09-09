@@ -1,4 +1,4 @@
-# Hi! I'm Ronald!
+# 💬 Hi! I'm Ronald!
 
 I'm a Junior Fullstack Developer focused on frontend, looking to collaborate<br>on a entusiastic team to grow ahead and learn everyday to achieve our goals.<br><br>I'm learning Angular and Azure AZ-400<br>
 
