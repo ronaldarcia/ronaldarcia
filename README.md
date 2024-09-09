@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi! I'm Ronald, an X generation junior fullstack developer focused on frontend, looking to collaborate<br>on a entusiastic team to grow ahead and learn everyday to achieve our goals.<br><br>I'm learning Angular and Azure AZ-400<br>
 
 ## 🌐 Socials:
