@@ -1,6 +1,6 @@
 # 💬 Hi! I'm Ronald!
 
-I'm a Junior Fullstack Developer focused on frontend, looking to collaborate<br>on a entusiastic team to grow ahead and learn everyday to achieve our goals.<br><br>I'm learning Angular and Azure AZ-400<br>
+I am a skilled Full Stack Developer with a passion for Frontend technologies such as React, Angular, Tailwind, Bootstrap, HTML, CSS, and Javascript. Additionally, I excel in Backend development and Databases with Node, Express, MongoDB, MySQL, and Docker. My expertise lies in creating dynamic and responsive websites that prioritize user experience optimization. I actively drive projects using the Scrum methodology and possess strong soft skills for effective collaboration within agile teams. My goal is to constantly learn and expand my knowledge while contributing to innovative projects.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldarcia) 
