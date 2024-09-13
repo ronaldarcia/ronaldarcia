@@ -13,9 +13,6 @@ I am a skilled Frontend Developer with passion for technologies such as React, A
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ronaldarcia&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldarcia&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ronaldarcia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
